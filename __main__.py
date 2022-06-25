@@ -1,6 +1,3 @@
-# 015-C111-ZTests
-# This is a python script made by @somePythonProgrammer
-# for a WhiteHat Junior project.
 
 from os import name
 from numpy.testing._private.utils import measure
